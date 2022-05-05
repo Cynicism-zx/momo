@@ -50,9 +50,11 @@ Gitee：https://gitee.com/baoyalive/baoyalive.git
 [上线APP搜：]() 【欢心交友】 
 
 **演示：**
-![](https://qr.api.cli.im/newqr/create?data=https%3A%2F%2Fwwa.lanzoui.com%2FisHcIvmbeng&level=H&transparent=false&bgcolor=%23FFFFFF&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&logoshape=no&size=96&bgimg=&text=&fontsize=30&fontcolor=%23000000&fontfamily=simsun.ttc&incolor=&outcolor=&qrcode_eyes=null&background=&wper=&hper=&tper=&lper=&eye_use_fore=1&qrpad=10&kid=cliim&key=1accf12ddac20710ce6c829b73fb8aeb)
+![](https://qr.api.cli.im/newqr/create?data=http%253A%252F%252Fvoice.52webrtc.top%252F&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&logoshape=no&size=100&bgimg=&text=&fontsize=30&fontcolor=%23000000&fontfamily=simsun.ttc&incolor=&outcolor=&qrcode_eyes=null&background=&wper=&hper=&tper=&lper=&eye_use_fore=1&qrpad=10&kid=cliim&key=3c2eed1f4ee6fe950be62dbbe9f8ba78)
 
-[直播短视频带货app下载](https://wwa.lanzoui.com/isHcIvmbeng) 点击此处下载app（用手机浏览器打开下载，不要用微信直接下载）
+地址：http://voice.52webrtc.top
+
+点击此处下载app（用手机浏览器打开下载，不要用微信直接下载）
   
 ----------------
 IOS 视频演示：https://pan.baidu.com/s/18KaHu-39TMQLetb0m7XD0Q 提取码：v929
@@ -63,8 +65,9 @@ IOS 视频演示：https://pan.baidu.com/s/18KaHu-39TMQLetb0m7XD0Q 提取码：v
 ![前端展示](https://img-blog.csdnimg.cn/20210605203510511.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTIxMTUxOTc=,size_16,color_FFFFFF,t_70#pic_center)
 
 **后台界面**
-![后台界面](https://img-blog.csdnimg.cn/20200907180807339.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTIxMTUxOTc=,size_16,color_FFFFFF,t_70#pic_center)
+![vue界面](https://img-blog.csdnimg.cn/6a993757bb6e43698358ea12f838e8ad.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5Y2I5aSc56CB54uC,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center)
 
+![k8s界面](https://img-blog.csdnimg.cn/ae959e8fb8994ef2a3b92356c3276890.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5Y2I5aSc56CB54uC,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center)
 
 ----------------
 
@@ -80,7 +83,7 @@ IOS 视频演示：https://pan.baidu.com/s/18KaHu-39TMQLetb0m7XD0Q 提取码：v
 - **集小视频/IM聊天/直播等功能于一体的直播项目。界面仿制抖音|火山小视频|陌陌直播|比心陪玩等。**
 
 #### *注意：*前端的具体细技术细节请移至前端篇赘述，本贴暂不描述前端内容。
-![陪玩app](https://img-blog.csdnimg.cn/20210406163759968.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTIxMTUxOTc=,size_16,color_FFFFFF,t_70#pic_center)
+
 
 ## PHP框架开发
 
